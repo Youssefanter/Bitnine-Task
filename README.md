@@ -20,7 +20,9 @@ Here is the code for the new modal component:
 ### Here is a comparison of the old modal and the new modal:
 
 **_Old modal Image_**
+
 ![Old-Modal](./Old.png)
 
 **_New modal Image_**
+
 ![New-Modal](./New.png)
